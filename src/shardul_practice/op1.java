@@ -14,9 +14,9 @@ public class op1 {
         // TODO code application logic here
         // \n /n System.out.println("Comment ex");
         int i=10+ +11- -12+ +13- -14+ +15;
-        int j=10++11--12++13--14++15;
+        //int j=10++11--12++13--14++15;
         System.out.println(i);
-        System.out.println(j);
+       // System.out.println(j);
         
         
     }
